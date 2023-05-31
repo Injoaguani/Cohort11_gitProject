@@ -1,4 +1,4 @@
 1This is a test of 1 insertion and 6 deletions!!!
 This is a test of insertion and git status
-
+This is an edit or change or insertion to this file to automate a commit with Jenkins
 
