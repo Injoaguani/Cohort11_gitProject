@@ -1,1 +1,1 @@
-In this file, this an sample insertion to be commited and to automate Jenkins to Trigger a Build
+In this file, this a sample insertion to be commited and to automate Jenkins to Trigger a Build
